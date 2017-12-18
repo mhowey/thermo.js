@@ -1,13 +1,13 @@
 {
   "name": "thermo.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert Celsius, Fahrenheit and Kelvin degrees.",
   "main": "index.js",
   "dependencies": {
     "eslint": "^4.13.1",
     "yargs": "^10.0.3"
   },
-    "bin": {
+  "bin": {
     "thermo.js": "./index.js"
   },
   "devDependencies": {
