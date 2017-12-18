@@ -9,7 +9,7 @@ const argv = yargs
 .help('h')
 .argv;
 
-let value = argv._[0];
+const value = argv._[0];
 
 if (!value) {
   console.log('You need to pass a value to be converted.');
