@@ -26,3 +26,12 @@ You can use aliases for scales.
 thermo 85 -f
 => 85°F = 29.44°C = 302.59K
 ```
+
+# Running tests
+thermo.js uses Mocha as unit testing framework. Just run
+
+```
+npm test
+```
+
+to begin the tests.
