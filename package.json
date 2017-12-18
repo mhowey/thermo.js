@@ -18,7 +18,7 @@
     "mocha": "^4.0.1"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha",
+    "test": "mocha",
     "lint": "eslint --config .eslintrc.json --format compact ."
   },
   "repository": {
