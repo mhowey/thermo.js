@@ -1,6 +1,8 @@
 # thermo.js ![Travis CI build information](https://travis-ci.org/vnbrs/thermo.js.svg?branch=master)
 Convert from/to Celsius, Fahrenheit and Kelvin degrees.
 
+![Preview](https://media.giphy.com/media/l3mZbOVjL47HU6Gje/giphy.gif)
+
 # Installation
 You can easily install it from npm
 
