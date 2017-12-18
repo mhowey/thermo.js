@@ -1,5 +1,5 @@
 {
-  "name": "thermo",
+  "name": "thermo.js",
   "version": "1.0.0",
   "description": "Convert Celsius, Fahrenheit and Kelvin degrees.",
   "main": "index.js",

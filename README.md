@@ -1,4 +1,4 @@
-# Thermo
+# thermo.js
 Convert from/to Celsius, Fahrenheit and Kelvin degrees.
 
 # Usage
