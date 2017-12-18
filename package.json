@@ -8,7 +8,7 @@
     "yargs": "^10.0.3"
   },
   "bin": {
-    "thermo.js": "./index.js"
+    "thermo": "./index.js"
   },
   "devDependencies": {
     "eslint-config-google": "^0.9.1"
