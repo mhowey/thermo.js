@@ -4,9 +4,12 @@
   "description": "Convert Celsius, Fahrenheit and Kelvin degrees.",
   "main": "index.js",
   "dependencies": {
+    "eslint": "^4.13.1",
     "yargs": "^10.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
