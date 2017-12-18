@@ -1,0 +1,26 @@
+{
+  "name": "thermo",
+  "version": "1.0.0",
+  "description": "Convert Celsius, Fahrenheit and Kelvin degrees.",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnbrs/thermo.git"
+  },
+  "keywords": [
+    "temperature"
+  ],
+  "author": "vnbrs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnbrs/thermo/issues"
+  },
+  "homepage": "https://github.com/vnbrs/thermo#readme"
+}
