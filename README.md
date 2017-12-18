@@ -1,6 +1,13 @@
 # thermo.js
 Convert from/to Celsius, Fahrenheit and Kelvin degrees.
 
+# Installation
+You can easily install it from npm
+
+```
+npm install -g thermo.js
+```
+
 # Usage
 Simply call `thermo` along with the value and the scale.
 
