@@ -1,5 +1,5 @@
 # thermo.js ![Travis CI build information](https://travis-ci.org/vnbrs/thermo.js.svg?branch=master)
-Convert from/to Celsius, Fahrenheit and Kelvin degrees.
+🌡 Convert from/to Celsius, Fahrenheit and Kelvin degrees directly from your terminal Edit
 
 ![Preview](https://media.giphy.com/media/l3mZbOVjL47HU6Gje/giphy.gif)
 
