@@ -1,7 +1,9 @@
 'use strict';
 
-let toCelsius = (value) => (value - 32) * (5 / 9);
-let toKelvin = (value) => (value + 459.67) * (5 / 9);
+const helper = require('./helper');
+
+let toCelsius = (value) => helper.fixFloat((value - 32) * (5 / 9));
+let toKelvin = (value) => helper.fixFloat((value + 459.67) * (5 / 9));
 
 module.exports = {
   toCelsius,

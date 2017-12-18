@@ -1,20 +1,25 @@
 {
   "name": "thermo.js",
   "version": "1.0.6",
+  "engines": {
+    "node": ">4.0.0"
+  },
   "description": "Convert Celsius, Fahrenheit and Kelvin degrees.",
   "main": "index.js",
   "dependencies": {
-    "eslint": "^4.13.1",
     "yargs": "^10.0.3"
   },
   "bin": {
     "thermo": "./index.js"
   },
   "devDependencies": {
-    "eslint-config-google": "^0.9.1"
+    "eslint": "^4.13.1",
+    "eslint-plugin-node": "^5.2.1",
+    "mocha": "^4.0.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha",
+    "lint": "eslint --config .eslintrc.json --format compact ."
   },
   "repository": {
     "type": "git",
